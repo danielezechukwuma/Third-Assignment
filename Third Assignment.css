@@ -1,0 +1,454 @@
+<<<<<<< HEAD
+* {
+
+    margin: 0;
+  
+    padding: 0;
+  
+    box-sizing: border-box;
+  
+  }
+  
+  body {
+  
+    font-family: Arial, sans-serif;
+  
+    line-height: 1.6;
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.tu0BvY1Bw-VX5AXEEdTVxgHaHa&pid=Api&P=0&h=220);
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  
+  header {
+  
+    background-color: #333;
+  
+    padding: 10px;
+  
+  }
+  
+  nav ul {
+  
+    list-style: none;
+  
+    text-align: center;
+    background-color: white;
+  
+  }
+  
+  nav li {
+  
+    display: inline-block;
+  
+    margin-right: 20px;
+    
+  
+  }
+  
+  nav a {
+  
+    text-decoration: none;
+  
+    color: white;
+  
+    padding: 5px 10px;
+  background-color: rgb(9, 9, 9);
+  }
+  
+  nav a:hover {
+  
+    background-color: #555;
+  
+  }
+  
+  .main {
+  
+    max-width: 1200px;
+  
+    margin: 0 auto;
+  
+    padding: 20px;
+  
+  }
+  
+  .hero-section {
+  
+    background-image: url('https://tse2.mm.bing.net/th?id=OIP.0JmYG5E90CH44HqiMM05iwHaLH&pid=Api&P=0&h=220');
+  
+    background-size: 5%;
+  
+    background-position: center;
+  
+    text-align: center;
+  
+    color: white;
+  
+    padding: 100px 0;
+  
+  }
+  
+  .hero-section h1 {
+  color: rgb(239, 3, 239);
+    font-size: 3rem;
+  
+    margin-bottom: 20px;
+  
+  }
+  
+  .hero-section p {
+  
+    font-size: 3.2rem;
+  background-color: black;
+    margin-bottom: 40px;
+  color: rgb(247, 142, 6);
+  }
+  
+  .cta-btn {
+  
+    display: inline-block;
+  
+    background-color: #ff5500;
+  
+    color: white;
+  
+    padding: 10px 20px;
+  
+    border: none;
+  
+    border-radius: 5px;
+  
+    text-decoration: none;
+  
+    font-size: 1.2rem;
+  
+  }
+  
+  .cta-btn:hover {
+  
+    background-color: #ff3300;
+  
+  }
+  
+  .popular-books {
+  
+    display: flex;
+  
+    flex-wrap: wrap;
+  
+    justify-content: center;
+  width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    min-width: 1000px;
+  }
+  
+  .classic-books {
+  
+    max-width: 300px;
+  
+    margin: 20px;
+  
+    padding: 20px;
+  
+    border: 1px solid #ddd;
+  
+    border-radius: 5px;
+    
+  
+  }
+  
+  .classic-books img {
+  
+    width: 100%;
+  
+    border-radius: 5px;
+  
+  }
+  
+  .classic-books h3 {
+  
+    margin-top: 10px;
+  
+    margin-bottom: 10px;
+  
+  }
+  
+  .price {
+  
+    font-weight: bold;
+  
+  }
+  
+  .buy-btn {
+  
+    display: inline-block;
+  
+    background-color: #007bff;
+  
+    color: white;
+  
+    padding: 5px 10px;
+  
+    border: none;
+  
+    border-radius: 5px;
+  
+    text-decoration: none;
+  
+    font-size: 1rem;
+  
+  }
+  
+  .buy-btn:hover {
+  
+    background-color: #0056b3;
+  
+  }
+  
+  footer {
+  
+    background-color: #333;
+  
+    color: white;
+   display: flex;
+  
+    flex-wrap: wrap;
+  
+    justify-content: center;
+  width: 80%;
+    text-align: center;
+     margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    min-width: 1000px;;
+  
+=======
+* {
+
+    margin: 0;
+  
+    padding: 0;
+  
+    box-sizing: border-box;
+  
+  }
+  
+  body {
+  
+    font-family: Arial, sans-serif;
+  
+    line-height: 1.6;
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.tu0BvY1Bw-VX5AXEEdTVxgHaHa&pid=Api&P=0&h=220);
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  
+  header {
+  
+    background-color: #333;
+  
+    padding: 10px;
+  
+  }
+  
+  nav ul {
+  
+    list-style: none;
+  
+    text-align: center;
+    background-color: white;
+  
+  }
+  
+  nav li {
+  
+    display: inline-block;
+  
+    margin-right: 20px;
+    
+  
+  }
+  
+  nav a {
+  
+    text-decoration: none;
+  
+    color: white;
+  
+    padding: 5px 10px;
+  background-color: rgb(9, 9, 9);
+  }
+  
+  nav a:hover {
+  
+    background-color: #555;
+  
+  }
+  
+  .main {
+  
+    max-width: 1200px;
+  
+    margin: 0 auto;
+  
+    padding: 20px;
+  
+  }
+  
+  .hero-section {
+  
+    background-image: url('https://tse2.mm.bing.net/th?id=OIP.0JmYG5E90CH44HqiMM05iwHaLH&pid=Api&P=0&h=220');
+  
+    background-size: 5%;
+  
+    background-position: center;
+  
+    text-align: center;
+  
+    color: white;
+  
+    padding: 100px 0;
+  
+  }
+  
+  .hero-section h1 {
+  color: rgb(239, 3, 239);
+    font-size: 3rem;
+  
+    margin-bottom: 20px;
+  
+  }
+  
+  .hero-section p {
+  
+    font-size: 3.2rem;
+  background-color: black;
+    margin-bottom: 40px;
+  color: rgb(247, 142, 6);
+  }
+  
+  .cta-btn {
+  
+    display: inline-block;
+  
+    background-color: #ff5500;
+  
+    color: white;
+  
+    padding: 10px 20px;
+  
+    border: none;
+  
+    border-radius: 5px;
+  
+    text-decoration: none;
+  
+    font-size: 1.2rem;
+  
+  }
+  
+  .cta-btn:hover {
+  
+    background-color: #ff3300;
+  
+  }
+  
+  .popular-books {
+  
+    display: flex;
+  
+    flex-wrap: wrap;
+  
+    justify-content: center;
+  width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    min-width: 1000px;
+  }
+  
+  .classic-books {
+  
+    max-width: 300px;
+  
+    margin: 20px;
+  
+    padding: 20px;
+  
+    border: 1px solid #ddd;
+  
+    border-radius: 5px;
+    
+  
+  }
+  
+  .classic-books img {
+  
+    width: 100%;
+  
+    border-radius: 5px;
+  
+  }
+  
+  .classic-books h3 {
+  
+    margin-top: 10px;
+  
+    margin-bottom: 10px;
+  
+  }
+  
+  .price {
+  
+    font-weight: bold;
+  
+  }
+  
+  .buy-btn {
+  
+    display: inline-block;
+  
+    background-color: #007bff;
+  
+    color: white;
+  
+    padding: 5px 10px;
+  
+    border: none;
+  
+    border-radius: 5px;
+  
+    text-decoration: none;
+  
+    font-size: 1rem;
+  
+  }
+  
+  .buy-btn:hover {
+  
+    background-color: #0056b3;
+  
+  }
+  
+  footer {
+  
+    background-color: #333;
+  
+    color: white;
+   display: flex;
+  
+    flex-wrap: wrap;
+  
+    justify-content: center;
+  width: 80%;
+    text-align: center;
+     margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    min-width: 1000px;;
+  
+>>>>>>> 17c507ea3c2ffc099e462a07703eda7798505194
+  }
